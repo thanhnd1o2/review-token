@@ -5,7 +5,7 @@
     },
     {
         "code": "ANDROID_REVIEW_GKQ",
-        "enabled": true
+        "enabled": false
     },
     {
         "code": "ANDROID_REVIEW_BCA",
