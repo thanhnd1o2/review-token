@@ -1,7 +1,7 @@
 [
     {
         "code": "APPLE_REVIEW_SYL",
-        "enabled": true
+        "enabled": false
     },
     {
         "code": "ANDROID_REVIEW_GKQ",
