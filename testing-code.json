@@ -1,14 +1,14 @@
 [
     {
         "code": "APPLE_REVIEW_SYL",
-        "enabled": false
+        "enabled": true
     },
     {
         "code": "ANDROID_REVIEW_GKQ",
-        "enabled": false
+        "enabled": true
     },
     {
         "code": "ANDROID_REVIEW_BCA",
-        "enabled": false
+        "enabled": true
     }
 ]
